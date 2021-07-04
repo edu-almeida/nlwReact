@@ -12,7 +12,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Requisitos:
 
 Será necessário criar uma conta no [Firebase](https://firebase.google.com/) e um projeto para disponibilizar um Realtime Database.
-Será necessário criar o arquivo env.local, como o exemplo env.exemple. Esse aarquivo recebe as informações geradas pela firebase para acessar o projeto.
+Será necessário criar o arquivo ".env.local", como o exemplo ".env.exemple". Esse aarquivo recebe as informações geradas pela firebase para acessar o projeto.
 
 Clone o projeto e acesse a pasta do mesmo.
 
