@@ -1,5 +1,5 @@
 ## Motivação
-Trabalho claborativo: [Eduardo Almeida](https://github.com/edu-almeida), [Élveson Costa](https://github.com/elveson) e [Paloma Antunes](https://github.com/paloma-antuness)
+Trabalho colaborativo: [Eduardo Almeida](https://github.com/edu-almeida), [Élveson Costa](https://github.com/elveson) e [Paloma Antunes](https://github.com/paloma-antuness)
 Este trabalho foi realizado com inspiração e aprendizado em reactJs, para a materia de Desenvolvimento Web em Sistemas de Informação pela IFNMG.
 
 ## Tecnologias
